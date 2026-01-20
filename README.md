@@ -1,99 +1,73 @@
-## 👤 About me
-
 <div align="center">
-  <strong>J'orchestre des systèmes où la clarté de l'architecture rencontre l'exigence du code : comprendre, concevoir, transmettre.</strong>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Taoufik%20OURO-BANG'NA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Developer;Building+elegant+solutions" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taoufik-ouro-bang-na/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ourotaoufik1@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=taoufikOURO&style=for-the-badge&color=blueviolet)](https://github.com/taoufikOURO)
+
 </div>
 
-Mon objectif est d'aller au-delà du développement : concevoir des systèmes robustes, innover et partager des connaissances.
-
-<div align="center" style="margin-top:8px;">
-  <img src="https://img.shields.io/badge/Architecture_modulaire-0d47a1?style=flat-square&labelColor=0d47a1&color=0d47a1" alt="Architecture modulaire" />
-  <img src="https://img.shields.io/badge/APIs_scalables-263238?style=flat-square&labelColor=263238&color=263238" alt="APIs scalables" />
-  <img src="https://img.shields.io/badge/Qualit%C3%A9_logicielle-1b5e20?style=flat-square&labelColor=1b5e20&color=1b5e20" alt="Qualité logicielle" />
-  <img src="https://img.shields.io/badge/S%C3%A9curit%C3%A9_%26_Observabilit%C3%A9-37474f?style=flat-square&labelColor=37474f&color=37474f" alt="Sécurité et Observabilité" />
-</div>
-
----
-
-## 🧰 Compétences techniques
-
-Voici une synthèse de mes compétences techniques, présentées pour être scannées rapidement.
-
-### 💻 Langages de programmation
+<br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&logoWidth=20" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white&logoWidth=20" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000&logoWidth=20" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&logoWidth=20" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&logoWidth=20" alt="Python" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&logoWidth=20" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&logoWidth=20" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&logoWidth=20" alt="CSS3" />
-</div>
+  
+## Tech Stack
 
-### 🧩 Frameworks & Libraries
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&logoWidth=20" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white&logoWidth=20" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&logoWidth=20" alt="Angular" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&logoWidth=20" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&logoWidth=20" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Django-31572c?style=flat-square&logo=django&logoColor=white&logoWidth=20" alt="Django" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&logoWidth=20" alt="Tailwind CSS" />
-</div>
-
-### 🗄️ Bases de données
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&logoWidth=20" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&logoWidth=20" alt="PostgreSQL" />
-</div>
-
-### ⚙️ Outils
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&logoWidth=20" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&logoWidth=20" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&logoWidth=20" alt="Postman" />
-</div>
-
----
-
-## 📊 Métriques GitHub
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=taoufikOURO&show_icons=true&theme=github_dark&hide_border=true&title_color=0d47a1&icon_color=0d47a1" alt="Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=taoufikOURO&theme=github-dark&hide_border=true&stroke=0d47a1&ring=0d47a1" alt="Streak"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoufikOURO&layout=compact&theme=github_dark&hide_border=true&title_color=0d47a1" alt="Top Langs"/>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
----
+<br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/taoufik-ouro-bang-na/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/taoufikOURO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
-  </a>
-  <a href="mailto:ourotaoufik1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
-  </a>
+  
+## GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=taoufikOURO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=taoufikOURO&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoufikOURO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=taoufikOURO&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true" alt="Contribution Graph"/>
+
 </div>
 
+<br/>
+
 <div align="center">
-  <small>Taoufik OURO-BANG'NA — Architecte logiciel</small>
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taoufikOURO&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
