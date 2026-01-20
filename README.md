@@ -48,19 +48,17 @@
   
 ## GitHub Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=taoufikOURO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=taoufikOURO&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoufikOURO&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=taoufikOURO&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taoufikOURO&theme=github-compact&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true" alt="Contribution Graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=taoufikOURO&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=taoufikOURO&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)
 
 </div>
 
